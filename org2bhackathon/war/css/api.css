@@ -13,17 +13,14 @@
     border-bottom: 0.05em solid black;
 }
 
-.api a {
-    float: center;
-    margin: 0 auto 0 auto ;
-    font-size: 1em;
-}
-
 .api h3 {
-    font-size: 2em;
+    float: left;
+    font-size: 1.8em;
 }
 
 .api h1 {
     text-align: center;
-    padding-bottom: 2mm;
+    float: center;
+    padding-bottom: 1.5mm;
 }
+
