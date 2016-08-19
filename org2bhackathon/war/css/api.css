@@ -19,3 +19,11 @@
     font-size: 1em;
 }
 
+.api h3 {
+    font-size: 2em;
+}
+
+.api h1 {
+    text-align: center;
+    padding-bottom: 2mm;
+}
