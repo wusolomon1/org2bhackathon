@@ -1,0 +1,41 @@
+.api {
+    font-family: Tahoma, Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;
+    height: 100vh;
+    width: 100%;
+    background-color: white;
+    color: black;
+    display: table;
+}
+
+.api h2 {
+    font-family: Tahoma, Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;
+    width: 100%;
+    color: black;
+    margin: 0 auto 0 auto;
+    padding-top: 5mm;
+    text-align: center;
+    border-bottom: 0.05em solid black;
+}
+
+.api h1 {
+    font-family: Tahoma, Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;
+    text-align: center;
+    font-size: 2em;
+}
+
+.api h3 {
+    font-family: Tahoma, Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;
+    text-align: left;
+    font-size: 1.5em;
+}
+
+.api h4 {
+    font-family: Tahoma, Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;
+    text-align: center;
+    float: center;
+    font-size: 1.3em;
+}
+
+
+
+

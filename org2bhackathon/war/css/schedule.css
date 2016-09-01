@@ -1,0 +1,74 @@
+.schedule{ 
+  	font-family: Tahoma, Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;
+  	height: 100vh;
+  	width: 100%;
+  	display: table;
+  	background-color: #d9d9d9;
+  	color: black;
+}
+
+.schedule h2{ 
+  	font-family: Tahoma, Arial, Helvetica, "Microsoft YaHei New", "Microsoft Yahei", "微软雅黑", 宋体, SimSun, STXihei, "华文细黑", sans-serif;
+  	color: black;
+  	width: 100%;
+    text-align: center;
+    border-bottom: 0.05em solid black;
+}
+
+#schedule1 {
+	display:inline-table;
+	color: #407dac;
+	width: 30%;
+    margin: 0;
+    text-align: center;
+}
+
+#schedule1 ul, span {
+	float: center;
+	margin-left: 0.5em;
+}
+
+#schedule1 li:nth-child(1n) {
+	border: 0.15em solid #407dac;
+	padding: 0.3em;
+	font-size: 1.2em;
+}
+
+#schedule2 {
+	display:inline-table;
+    text-align: center;
+    color: #407dac;
+	width: 30%;
+    margin: 0;
+}
+
+#schedule2 ul , span {
+	float: center;
+	margin-left: 0.5em;
+}
+
+#schedule2 li:nth-child(1n) {
+	border: 0.15em solid #407dac;
+	padding: 0.3em;
+	font-size: 1.2em;
+}
+
+#schedule3 {
+	display:inline-table;
+	text-align: center;
+	width: 30%;
+	color: #407dac;
+	margin: 0;
+}
+
+#schedule3 ul , span {
+	float: center;
+	margin-left: 0.5em;
+}
+
+#schedule3 li:nth-child(1n) {
+	border: 0.15em solid #407dac;
+	padding: 0.3em;
+	font-size: 1.2em;
+}
+
